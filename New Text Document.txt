@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Drippy397/Adios/main/output.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Drippy397/Adios/main/output%20(1).lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Drippy397/HelpUi/main/HelpUi.lua"))()
